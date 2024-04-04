@@ -20,12 +20,19 @@ Python
 # Modules to be Installed 🔨
 
 $ pip install pyttsx3
+
 $ pip install speech_recognition
+
 $ pip install wikipedia
+
 $ pip install nltk
+
 $ pip install OS
+
 $ pip install datetime
+
 $ pip install webbrower
+
 $ pip install pyjokes
 
 
